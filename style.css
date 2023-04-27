@@ -158,12 +158,12 @@ main {
 }
 
 .player--winner {
-	background-color: #6b653cb4;
+	background-color: #25210385;
 }
 
 .player--winner .name {
 	font-weight: 700;
-	color: #c7365f;
+	color: #88ff00;
 }
 
 .hidden {
